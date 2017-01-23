@@ -1,0 +1,7 @@
+https://www.nasa.gov/rss/dyn/ames_news.rss
+https://www.nasa.gov/rss/dyn/armstrong_news.rss
+https://www.nasa.gov/rss/dyn/glenn_features.rss
+https://www.nasa.gov/rss/dyn/goddard-NewsFeature.rss
+https://www.nasa.gov/rss/dyn/johnson_news.rss
+https://www.nasa.gov/rss/dyn/msfc_news.rss
+https://www.nasa.gov/rss/dyn/centers/stennis/news/latest_news.rss

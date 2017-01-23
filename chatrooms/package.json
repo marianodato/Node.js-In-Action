@@ -1,0 +1,10 @@
+{
+"name": "chatrooms", //Name of package
+"version": "0.0.1",
+"description": "Minimalist multiroom chat server",
+"dependencies": //Package dependencies
+	{
+	 "socket.io": "~0.9.6",
+   	 "mime": "~1.2.7"
+  	}
+}
